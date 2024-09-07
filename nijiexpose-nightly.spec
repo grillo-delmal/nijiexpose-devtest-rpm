@@ -1,6 +1,8 @@
 %define nijiexpose_ver 0.0.0
-%define nijiexpose_dist 280
-%define nijiexpose_short 5c5819f
+%define nijiexpose_dist 282
+%define nijiexpose_short ec1ed49
+
+%define nijiexpose_suffix ^%{nijiexpose_dist}.git%{nijiexpose_short}
 
 Name:           nijiexpose-nightly
 Version:        %{nijiexpose_ver}%{?nijiexpose_suffix:}
