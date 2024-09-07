@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop">
-  <id>nijigenerate-nightly</id>
-  <launchable type="desktop-id">nijigenerate-nightly.desktop</launchable>
-  <name>nijigenerate-nightly</name>
+  <id>nijiexpose-nightly</id>
+  <launchable type="desktop-id">nijiexpose-nightly.desktop</launchable>
+  <name>nijiexpose-nightly</name>
   <metadata_license>CC0-1.0</metadata_license>
   <project_license>BSD-2-Clause</project_license>
   <summary>Tool to create and edit nijilive puppets.</summary>
@@ -12,15 +12,15 @@
       game development and digital animation. 
     </p>
     <p>
-      nijigenerate is a tool that lets you create and edit nijilive puppets.
+      nijiexpose is a tool that lets you use nijilive puppets as tracked avatars.
     </p>
-    <p>This is a nightly build of nijigenerate!</p>
-    <p>nijigenerate may crash unexpectedly and you will likely encounter bugs.</p>
+    <p>This is a nightly build of nijiexpose!</p>
+    <p>nijiexpose may crash unexpectedly and you will likely encounter bugs.</p>
     <p>Make sure to save and back up your work often!</p>
   </description>
-  <url type="homepage">https://github.com/nijigenerate/nijigenerate</url>
-  <url type="help">https://github.com/nijigenerate/nijigenerate</url>
-  <url type="bugtracker">https://github.com/nijigenerate/nijigenerate/issues</url>
+  <url type="homepage">https://github.com/nijigenerate/nijiexpose</url>
+  <url type="help">https://github.com/nijigenerate/nijiexpose</url>
+  <url type="bugtracker">https://github.com/nijigenerate/nijiexpose/issues</url>
   <screenshots>
     <screenshot type="default">
       <caption>Title screen</caption>
