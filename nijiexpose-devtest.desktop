@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=nijiexpose (DevTest)
+Exec=nijiexpose-devtest
+Icon=nijiexpose-devtest
+Type=Application
+Categories=Utility
