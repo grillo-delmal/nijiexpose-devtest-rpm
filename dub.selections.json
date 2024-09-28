@@ -23,7 +23,7 @@
 		"mir-linux-kernel": "1.0.1",
 		"nijilive": "0.0.0+build.659.808fcc2",
 		"nijiui": "0.0.0+build.80.f2d562f",
-		"openssl": "3.3.3",
+		"openssl": "3.3.4",
 		"openssl-static": "1.0.5+3.0.8",
 		"silly": "1.1.1",
 		"stdx-allocator": "2.77.5",
