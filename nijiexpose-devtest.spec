@@ -1,6 +1,6 @@
 %define nijiexpose_ver 0.0.0
-%define nijiexpose_dist 283
-%define nijiexpose_short f6a2eb7
+%define nijiexpose_dist 284
+%define nijiexpose_short 302760a
 
 %define nijiexpose_suffix ^%{nijiexpose_dist}.git%{nijiexpose_short}
 
